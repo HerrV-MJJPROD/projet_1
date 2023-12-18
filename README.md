@@ -1,2 +1,2 @@
 # README.md
-to db
+to staging
