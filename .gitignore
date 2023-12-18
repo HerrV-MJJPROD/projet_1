@@ -1,0 +1,3 @@
+secret_*
+bin/*
+!bin/*.txt
