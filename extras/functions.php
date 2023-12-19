@@ -7,3 +7,7 @@ function divide($param1, $param2){
 function fixbug(){
   echo "tout est réglé";
 }
+
+function helloworld(){
+  echo "helloworld";
+}
