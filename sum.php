@@ -1,4 +1,3 @@
-
 <?
 
 function multiply($value1,$value2){
@@ -6,4 +5,3 @@ function multiply($value1,$value2){
 }
 
 ?>
-
