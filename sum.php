@@ -1,6 +1,6 @@
 <?
 
-function multiply($param1,$param2){
+function multiply($value1,$value2){
 
 }
 
